@@ -1,0 +1,9 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex d45600e..612a08f 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,2 +1,2 @@[m
+ <h1>hello world</h1>[m
+[31m-<p>this checkout steps add button new feature (button)</p>[m
+[32m+[m[32m<p>this checkout steps add (dropdown) in feature1</p>[m
+\ No newline at end of file[m
